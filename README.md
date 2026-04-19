@@ -34,7 +34,7 @@ An Islamic mobile application built using Flutter that provides Qur’an images,
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/islami_app.git
-cd islami_app
+git clone https://github.com/your-username/islami.git
+cd islami
 flutter pub get
 flutter run
